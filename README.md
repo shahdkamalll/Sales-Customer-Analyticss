@@ -36,8 +36,17 @@ The final output is a **4-page interactive Power BI dashboard** that provides ac
 - Only ~9% of products are discounted, yet **non-discounted items drive the majority of revenue**.
 
 ##  Demo
-- **Screenshots**: [Add screenshots here]  
-- **Video Walkthrough (Optional)**: [Add YouTube/Drive link here]  
+### Sales Page
+![Sales Dashboard](images/sales.png)
+
+### Customers Page
+![Customers Dashboard](images/customers.png)
+
+### Customer Segmentation Page
+![Segmentation Dashboard](images/segmentation.png)
+
+### Products Page
+![Products Dashboard](images/products.png)
 
 ---
 
