@@ -46,7 +46,7 @@ The final output is a **4-page interactive Power BI dashboard** that provides ac
 ![Segmentation Dashboard](images/segmentation.png)
 
 ### Products Page
-![Products Dashboard](images/products.png)
+Screenshot (863).png
 
 ---
 
