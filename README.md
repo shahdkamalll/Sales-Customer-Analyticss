@@ -35,20 +35,18 @@ The final output is a **4-page interactive Power BI dashboard** that provides ac
 - **E-commerce slightly outperforms Mobile App** in sales volume.  
 - Only ~9% of products are discounted, yet **non-discounted items drive the majority of revenue**.
 
-##  Demo
+
 ### Sales Page
-![Sales Dashboard](images/sales.png)
+![Sales Dashboard](sales.png)
 
 ### Customers Page
-![Customers Dashboard](images/customers.png)
+![Customers Dashboard](customers.png)
 
 ### Customer Segmentation Page
-![Segmentation Dashboard](images/segmentation.png)
+![Segmentation Dashboard](segmentation.png)
 
 ### Products Page
-[Screenshot (863).png
-](https://github.com/shahdkamalll/Sales-Customer-Analyticss/blob/main/Screenshot%20(863).png)
----
+![Products Dashboard](products.png)
 
 ##  How to Use
 1. Download the repository.  
